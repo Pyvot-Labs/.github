@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pyvot Labs
+# Pyvot
 
 ### We build your website. Then we help you read your data.
 
